@@ -30,6 +30,7 @@ environment:
 dependencies:
   awesome: ^0.0.3
   cupertino_icons: ^1.0.2
+  equatable: ^2.0.5
   flutter:
     sdk: flutter
   font_awesome_flutter: ^10.5.0
